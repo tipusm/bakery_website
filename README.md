@@ -1,2 +1,2 @@
-# Bakery_Website
-This is Our Bakery Website
+# bakery_website
+Source code for my bakery website.
