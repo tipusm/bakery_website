@@ -72,7 +72,7 @@ nav a:hover {
 /* --- Hero Section (Homepage) --- */
 #hero {
     background: url('images/cake-hero-placeholder.jpg') no-repeat center center/cover; 
-    color: var(--white-color);
+    color: rgb(188, 68, 88);
     min-height: 500px;
     display: flex;
     align-items: center;
@@ -89,13 +89,13 @@ nav a:hover {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0, 0, 0, 0.4); /* Darker overlay for text contrast */
+    
 }
 
 #hero .hero-content {
     position: relative;
     z-index: 1;
-    padding: 20px;
+    padding: 70px;
     border: 5px solid var(--secondary-color); /* Fun border detail */
     border-radius: 100px;
 }
